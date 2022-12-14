@@ -1,8 +1,3 @@
-# Meteor Addon Template
+# Vape V5 Essentials Addon
 
-A template to allow easy usage of the Meteor Addon API.
-
-### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+Want more features on your VapeV5 hacked client? Add this to the mods folder.
